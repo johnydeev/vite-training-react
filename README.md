@@ -3,14 +3,14 @@
 ## para instalar Vite desde 0:
 
    ```bash
-   npm create vite@latest
+    npm create vite@latest
    ```
-      ```bash
-  Ingresar nombre de proyecto
+    ```bash
+    Ingresar nombre de proyecto
    ```
       ```bash
    JavaScript
    ```
-      ```bash
+    ```bash
    cd. [nombre de proyecto]
    ```
