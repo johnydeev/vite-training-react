@@ -3,7 +3,7 @@
 ## para instalar Vite desde 0:
 
 ## Paso 1
-    ```bash npm create vite@latest ```
+    `npm create vite@latest `
 
 ## Paso 2
     Ingresar nombre del proyecto (Opcional)
