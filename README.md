@@ -2,13 +2,13 @@
 
 ## para instalar Vite desde 0:
 
-   ```bash
+    ```bash
     npm create vite@latest
    ```
     ```bash
     Ingresar nombre de proyecto
    ```
-      ```bash
+    ```bash
    JavaScript
    ```
     ```bash
