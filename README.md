@@ -8,6 +8,6 @@
 ## Paso 3 - Seleccionar Framework (en mi caso sera React)    
 ## Paso 4 - Seleccionar Variante (JavaScript o +TypeScript)     
 ## Paso 5 - Ingresar a la carpeta del proyecto con el siguiente comando
-    cd. [Nombre de mi proyecto]
+    cd [Nombre de mi proyecto]
 ## Paso 6 - Ejecutar en la terminal el comando siguiente para la instalacion de las dependencias
     npm i
